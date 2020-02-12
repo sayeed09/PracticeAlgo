@@ -1,0 +1,11 @@
+C:\Users\Kz_Tech\Documents\AlgoExpert Problems\ConsoleApp1\bin\Debug\netcoreapp3.0\AlgoExperts.exe
+C:\Users\Kz_Tech\Documents\AlgoExpert Problems\ConsoleApp1\bin\Debug\netcoreapp3.0\AlgoExperts.deps.json
+C:\Users\Kz_Tech\Documents\AlgoExpert Problems\ConsoleApp1\bin\Debug\netcoreapp3.0\AlgoExperts.runtimeconfig.json
+C:\Users\Kz_Tech\Documents\AlgoExpert Problems\ConsoleApp1\bin\Debug\netcoreapp3.0\AlgoExperts.runtimeconfig.dev.json
+C:\Users\Kz_Tech\Documents\AlgoExpert Problems\ConsoleApp1\bin\Debug\netcoreapp3.0\AlgoExperts.dll
+C:\Users\Kz_Tech\Documents\AlgoExpert Problems\ConsoleApp1\bin\Debug\netcoreapp3.0\AlgoExperts.pdb
+C:\Users\Kz_Tech\Documents\AlgoExpert Problems\ConsoleApp1\obj\Debug\netcoreapp3.0\AlgoExperts.csprojAssemblyReference.cache
+C:\Users\Kz_Tech\Documents\AlgoExpert Problems\ConsoleApp1\obj\Debug\netcoreapp3.0\AlgoExperts.AssemblyInfoInputs.cache
+C:\Users\Kz_Tech\Documents\AlgoExpert Problems\ConsoleApp1\obj\Debug\netcoreapp3.0\AlgoExperts.AssemblyInfo.cs
+C:\Users\Kz_Tech\Documents\AlgoExpert Problems\ConsoleApp1\obj\Debug\netcoreapp3.0\AlgoExperts.dll
+C:\Users\Kz_Tech\Documents\AlgoExpert Problems\ConsoleApp1\obj\Debug\netcoreapp3.0\AlgoExperts.pdb
